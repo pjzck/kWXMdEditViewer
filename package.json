@@ -1,0 +1,23 @@
+{
+  "name": "kwxmdeditviewer",
+  "version": "1.0.0",
+  "description": "wx markdown viewer lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjzck/kWXMdEditViewer.git"
+  },
+  "keywords": [
+    "wx",
+    "markdown"
+  ],
+  "author": "pjzck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjzck/kWXMdEditViewer/issues"
+  },
+  "homepage": "https://github.com/pjzck/kWXMdEditViewer#readme"
+}
